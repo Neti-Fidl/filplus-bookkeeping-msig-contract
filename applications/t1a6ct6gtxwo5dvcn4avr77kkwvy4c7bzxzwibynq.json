@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "t1a6ct6gtxwo5dvcn4avr77kkwvy4c7bzxzwibynq",
   "Issue Number": "424",
+  "Client Contract Address": "t410fxd6tft3hpsnstbqxbnzvtwhd3yrtuivkldyuh2y",
   "Client": {
     "Name": "Issue FL B",
     "Region": "United States",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "32 GiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2026-01-28 13:30:49.618629513 UTC",
+    "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2026-01-28 13:27:52.129258048 UTC",
-    "Active Request ID": "",
+    "Updated At": "2026-01-28 13:30:49.618634465 UTC",
+    "Active Request ID": "b4cbaa0f-c74f-4854-8936-6788a92cdaea",
     "On Chain Address": "t1a6ct6gtxwo5dvcn4avr77kkwvy4c7bzxzwibynq",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "b4cbaa0f-c74f-4854-8936-6788a92cdaea",
+      "Request Type": "First",
+      "Created At": "2026-01-28 13:30:49.618637098 UTC",
+      "Updated At": "2026-01-28 13:30:49.618638431 UTC",
+      "Active": true,
+      "Allocation Amount": "3221225472 B",
+      "Signers": []
+    }
+  ]
 }
